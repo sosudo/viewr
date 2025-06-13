@@ -29,6 +29,9 @@ highlight = input("Highlight min/max values? (y/n): ")
 if highlight == 'y':
     min_val = npout.min()
     max_val = npout.max()
+else:
+    min_val = None
+    max_val = None
 
 # Optional: axis labels
 x_labels = [f"" for _ in range(cols)]
