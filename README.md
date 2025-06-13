@@ -113,14 +113,6 @@ A: Install it using `pip install matplotlib numpy`
 
 ---
 
-## 🧠 Credits
-
-* Developed by [Shiv Gour](https://github.com/your-github)
-* Warm colormap design inspired by Hasita Kanamarlapudi
-* Powered by Python, Matplotlib, and ❤️
-
----
-
 ## 📜 License
 
 MIT License. Free to use, modify, and share.
