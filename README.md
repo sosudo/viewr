@@ -94,6 +94,7 @@ viewr/
 ├── viewr.sh         # Linux/macOS launcher
 ├── viewr.bat        # Windows launcher
 ├── heatmap.txt      # sample input
+├── examples         # folder of example color schemes
 └── README.md        # this file
 ```
 
