@@ -28,7 +28,7 @@ Originally developed as a research tool, `viewr` supports label toggling, color 
 
 Install dependencies with:
 ```bash
-pip install matplotlib numpy
+pip3 install matplotlib numpy
 ````
 
 ---
